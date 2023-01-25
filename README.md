@@ -1,2 +1,3 @@
-# unity-useful-helper-scripts
+# Useful Unity helper scripts
+
 Still working on it bro
